@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 function Project() {
   <>
@@ -13,9 +13,7 @@ function Project() {
         />
       </a>
       <a
-        href="https://hkagei.github.io/hiro-s-code-refractor-challenge/"
-        target="_blank"
-      >
+        href="https://hkagei.github.io/hiro-s-code-refractor-challenge/" target="_blank">
         <img
           class="SEO-image"
           src="./assets/images/HoriSEOn screenshot.PNG"

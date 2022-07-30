@@ -12,7 +12,15 @@ function App() {
     <div>
       <Navigation></Navigation>
       <main>
-        <Card></Card>
+      if(!contactSelected){" "}
+        {
+          <>
+            {/* <Gallery currentCategory={currentCategory}></Gallery> */}
+            <Card></Card>
+          </>
+        }{" "}
+        else {<ContactForm></ContactForm>}
+        
       </main>
       <Footer></Footer>
     </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter } from "react-router-dom";
+// import { BrowserRouter } from "react-router-dom";
 
 
 
@@ -27,15 +27,12 @@ function Card() {
   </div>
   <div className="row tag-search">
     <div className="columns">
-      <h4>Search by Tag</h4>
+      <h4>My Work</h4>
       <ul className="menu simple tag-section">
-        <li><a href="">word</a></li>
-        <li><a href="">word</a></li>
-        <li><a href="">word</a></li>
-        <li><a href="">word</a></li>
-        <li><a href="">word</a></li>
-        <li><a href="">word</a></li>
-        <li><a href="">word</a></li>
+        <li><a href="https://hkagei.github.io/run-buddy/" target="_blank" rel="noreferrer">Run Buddy (Basic HTML)</a></li>
+        <li><a href="https://jacee94.github.io/national-mapper" target="_blank" rel="noreferrer">National Mapper (Front End Project)</a></li>
+        <li><a href="" target="_blank">Pizza Hunt (Intro to MongoDB)</a></li>
+        <li><a href="https://hkagei.github.io/food-festival/" target="_blank" rel="noreferrer">Food Festival (Progressive Web Application/PWA)</a></li>
       </ul>
     </div>
   </div>
