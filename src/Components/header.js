@@ -1,4 +1,5 @@
 import React from 'react';
+import { capitalizeFirstLetter } from '../utils/helpers';
 import { Link } from 'react-router-dom';
 
 function Header() {

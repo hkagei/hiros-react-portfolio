@@ -3,29 +3,28 @@ import './App.css';
 import Card from './Components/card';
 import Footer from './Components/footer';
 import Header from './Components/header';
-//  import Navigation from './Components/navigation';
+ import Navigation from './Components/navigation';
 // import Project from './Components/project';
 import ContactForm from './Components/contact';
 
 function App() {
   return (
-    <div>
-      <Header>
-
+    <>
+    <Header>
+      <Navigation>
+      </Navigation>
       </Header>
       <main>
-      if(!contactSelected){""}
-        {
-          <>
-            {/* <Gallery currentCategory={currentCategory}></Gallery> */}
+        {/* {
+         
+            <Gallery currentCategory={currentCategory}></Gallery> */}
             <Card></Card>
-          </>
-        }{""}
-        else {<ContactForm></ContactForm>}
-        
+        {/* }{""} */}
+        <ContactForm></ContactForm>
+  
       </main>
       <Footer></Footer>
-    </div>
+    </>
   );
 }
 
