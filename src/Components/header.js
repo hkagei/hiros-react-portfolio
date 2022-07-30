@@ -3,8 +3,9 @@ import { capitalizeFirstLetter } from '../utils/helpers';
 import { Link } from 'react-router-dom';
 
 function Header() {
+    return(
     <>
-    <header class="header">
+    <header className="header">
             <h1>
                 <a href="/">HIRO KAGEI</a>
             </h1>
@@ -23,6 +24,7 @@ function Header() {
             </nav>
           </header>
           </>
+    );
 }
 
 export default Header;

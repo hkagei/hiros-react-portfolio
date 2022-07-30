@@ -23,7 +23,7 @@ function Card() {
     <div className="small-12 medium-4 columns small-order-1 medium-order-2 mailing-container">
       <h4 className="mailing-list">Join my mailing list</h4>
       <input type="text" placeholder="Email Address"/>
-      <a class="button expanded subscribe-button" href="#">Subscribe Now</a>
+      <a className="button expanded subscribe-button" href="#">Subscribe Now</a>
     </div>
   </div>
   <div className="row tag-search">
@@ -40,7 +40,7 @@ function Card() {
   <div className="row columns flex-container align-justify">
      <p> all rights reserved</p>
     <div className="up-arrow">
-      <a href="#top"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a>
+      <a href="#top"><i className="fa fa-chevron-circle-up" aria-hidden="true"></i></a>
     </div>
   </div>
 </footer>

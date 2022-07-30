@@ -3,11 +3,11 @@ import React from "react";
 
 function Project() {
   <>
-    <article id="work" class="work">
+    <article id="work" className="work">
       <h2>Work</h2>
       <a href="https://hkagei.github.io/run-buddy/" target="_blank">
         <img
-          class="runbuddy-image"
+          className="runbuddy-image"
           src="./assets/images/run-buddy.PNG"
           alt="run buddy"
         />
@@ -15,14 +15,14 @@ function Project() {
       <a
         href="https://hkagei.github.io/hiro-s-code-refractor-challenge/" target="_blank">
         <img
-          class="SEO-image"
+          className="SEO-image"
           src="./assets/images/HoriSEOn screenshot.PNG"
           alt="SEO"
         />
       </a>
       <a href="https://jacee94.github.io/national-mapper" target="_blank">
         <img
-          class="national-mapper-image"
+          className="national-mapper-image"
           src="./assets/images/national-mapper.PNG"
           alt="national-mapper"
         />

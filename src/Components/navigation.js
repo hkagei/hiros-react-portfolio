@@ -7,6 +7,7 @@ function Navigation(props) {
         categories = [],
 
     } = props;
+    return(
     <>
     <nav>
                 <ul>
@@ -22,6 +23,7 @@ function Navigation(props) {
                 </ul>
             </nav>
     </>
+    );
 }
 
 export default Navigation;

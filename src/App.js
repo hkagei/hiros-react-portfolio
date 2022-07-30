@@ -11,19 +11,11 @@ function App() {
   return (
     <>
     <Header>
-      <Navigation>
-      </Navigation>
-      </Header>
-      <main>
-        {/* {
-         
-            <Gallery currentCategory={currentCategory}></Gallery> */}
-            <Card></Card>
-        {/* }{""} */}
-        <ContactForm></ContactForm>
-  
-      </main>
-      <Footer></Footer>
+      <Navigation />
+    </Header>
+        <Card />    
+        <ContactForm />
+      <Footer />
     </>
   );
 }
