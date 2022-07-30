@@ -28,6 +28,27 @@ function Project() {
           alt="national-mapper"
         />
       </a>
+      <a href="https://jacee94.github.io/national-mapper" target="_blank">
+        <img
+          className="national-mapper-image"
+          src="./assets/images/national-mapper.PNG"
+          alt="national-mapper"
+        />
+      </a>
+      <a href="https://jacee94.github.io/national-mapper" target="_blank">
+        <img
+          className="national-mapper-image"
+          src="./assets/images/national-mapper.PNG"
+          alt="national-mapper"
+        />
+      </a>
+      <a href="https://jacee94.github.io/national-mapper" target="_blank">
+        <img
+          className="national-mapper-image"
+          src="./assets/images/national-mapper.PNG"
+          alt="national-mapper"
+        />
+      </a>
     </article>
   </>
   );
