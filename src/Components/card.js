@@ -14,9 +14,10 @@ function Card() {
           <img src="https://placehold.it/250x250"/>
         </div>
         <div className="medium-8 columns about-section">
+          <article id="about-me">
           <h4> About Me</h4>
           <p>paragraph about how amazing and awesome i am paragraph about how amazing and awesome i am paragraph about how amazing and awesome i am</p>
-          <a href="">Read More</a>
+          </article>
         </div>
       </div>
     </div>
@@ -26,7 +27,7 @@ function Card() {
       <a className="button expanded subscribe-button" href="#">Subscribe Now</a>
     </div>
   </div>
-  <div className="row tag-search">
+  {/* <div className="row tag-search">
     <div className="columns">
       <h4>My Work</h4>
       <ul className="menu simple tag-section">
@@ -36,13 +37,13 @@ function Card() {
         <li><a href="https://hkagei.github.io/food-festival/" target="_blank" rel="noreferrer">Food Festival (Progressive Web Application/PWA)</a></li>
       </ul>
     </div>
-  </div>
-  <div className="row columns flex-container align-justify">
+  </div> */}
+  {/* <div className="row columns flex-container align-justify">
      <p> all rights reserved</p>
     <div className="up-arrow">
       <a href="#top"><i className="fa fa-chevron-circle-up" aria-hidden="true"></i></a>
     </div>
-  </div>
+  </div> */}
 </footer>
     )
 

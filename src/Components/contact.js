@@ -37,6 +37,9 @@ export const ContactForm = () => {
     };
 
   return (
+    <section>
+        <article id='contact-me'>
+    <h1 data-testid="h1tag">Contact me</h1>
     <form ref={form} onSubmit={sendEmail}>
       <label>Name</label>
       <input type="text" name="Name" onBlur={handleChange}/>
@@ -51,6 +54,8 @@ export const ContactForm = () => {
           </div>
         )}
     </form>
+    </article>
+    </section>
   );
 };
 

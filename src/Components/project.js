@@ -2,6 +2,7 @@ import React from "react";
 // import { Link } from "react-router-dom";
 
 function Project() {
+  return (
   <>
     <article id="work" className="work">
       <h2>Work</h2>
@@ -28,7 +29,8 @@ function Project() {
         />
       </a>
     </article>
-  </>;
+  </>
+  );
 }
 
 export default Project;
