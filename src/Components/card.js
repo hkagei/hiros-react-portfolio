@@ -10,13 +10,13 @@ function Card() {
   <div className="row">
     <div className="medium-8 columns small-order-2 medium-order-1 about-container">
       <div className="row">
-        <div className="hide-for-small-only medium-4 columns about-section">
-          <img src="https://placehold.it/250x250"/>
+        <div className="about-me">
+          <img src="./1658159099879.jpeg"/>
         </div>
         <div className="medium-8 columns about-section">
           <article id="about-me">
           <h4> About Me</h4>
-          <p>paragraph about how amazing and awesome i am paragraph about how amazing and awesome i am paragraph about how amazing and awesome i am</p>
+          <p> My name is Hiro Kagei. I am an aspiring full-stack web developer who is learning the necessary skills to be proficient in multiple programming frameworks. I have a huge passion for learning, the outdoors, and traveling.</p>
           </article>
         </div>
       </div>

@@ -6,6 +6,7 @@ import Footer from './Components/footer';
 import Header from './Components/header';
 import Navigation from './Components/navigation';
 import Project from './Components/project';
+import Resume from './Components/resume'
 import ContactForm from './Components/contact';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     </Header>
         <Card />
         <Project />
+        <Resume />
         <ContactForm />
       <Footer />
     </>

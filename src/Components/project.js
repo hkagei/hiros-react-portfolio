@@ -13,8 +13,7 @@ function Project() {
           alt="run buddy"
         />
       </a>
-      <a
-        href="https://hkagei.github.io/hiro-s-code-refractor-challenge/" target="_blank">
+      <a href="https://hkagei.github.io/hiro-s-code-refractor-challenge/" target="_blank">
         <img
           className="SEO-image"
           src="./assets/images/HoriSEOn screenshot.PNG"

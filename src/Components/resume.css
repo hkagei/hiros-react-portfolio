@@ -1,0 +1,10 @@
+.resume {
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 100px;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    display: flex;
+    align-items: flex-start;
+}

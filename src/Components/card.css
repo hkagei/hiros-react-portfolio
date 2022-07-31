@@ -129,20 +129,22 @@ p {
     flex: 1;
 }
 
-.contact-me {
+.resume {
     margin-bottom: 20px;
     padding: 20px;
-    height: 200px;
+    height: 500px;
     width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    flex-wrap: nowrap;
-    display: block;
+    color: black;
+    display: flex;
+    align-items: flex-start;
 }
+
+
 
 .about-me img {
     max-height: 200px;
+    max-width: 200px
 }
 
 .footer {
