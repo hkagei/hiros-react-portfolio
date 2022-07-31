@@ -1,6 +1,6 @@
 import React from 'react';
-import { capitalizeFirstLetter } from '../utils/helpers';
-import { Link } from 'react-router-dom';
+// import { capitalizeFirstLetter } from '../utils/helpers';
+// import { Link } from 'react-router-dom';
 
 function Header() {
     return(
@@ -16,6 +16,9 @@ function Header() {
                     </li>
                     <li>
                         <a href="#work">Work</a>
+                    </li>
+                    <li>
+                        <a href="#resume">Resume</a>
                     </li>
                     <li>
                         <a href="#contact-me">Contact Me</a>
