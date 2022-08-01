@@ -11,7 +11,7 @@ function Card() {
     <div className="medium-8 columns small-order-2 medium-order-1 about-container">
       <div className="row">
         <div className="about-me">
-          <img src="./1658159099879.jpeg"/>
+          <img src="./1658159099879.jpeg" alt="" />
         </div>
         <div className="medium-8 columns about-section">
           <article id="about-me">

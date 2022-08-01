@@ -144,7 +144,7 @@ p {
 
 .about-me img {
     max-height: 200px;
-    max-width: 200px
+    max-width: 200px;
 }
 
 .footer {
@@ -203,11 +203,11 @@ p {
         text-align: center;
       }
     
-      .contact-me {
+      /* .contact-me {
         flex: 2 100%;
         text-align: left;
         justify-content: center;
-      }
+      } */
     
       .step-img {
         flex: 0 32%;
@@ -234,11 +234,11 @@ p {
         width: 100%;
       }
     
-      .contact-me {
+      /* .contact-me {
         text-align: left;
-      }
+      } */
     
-      .contact-me > * {
+      /* .contact-me > * {
         flex: 0 100%;
-      }
+      } */
     }   

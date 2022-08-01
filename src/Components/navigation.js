@@ -3,11 +3,11 @@ import React from 'react';
 // import { Link } from 'react-router-dom'
 import './navigation.css';
 
-function Navigation(props) {
-    const {
-        categories = [],
-
-    } = props;
+function Navigation() {
+    // const {
+    //     categories = [],
+        
+    // } = props;
     return(
     <>
     <nav className='navigation'>
