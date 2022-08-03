@@ -19,7 +19,7 @@ function Navigation() {
                         <a href="#resume">Resume</a>
                     </li>
                     <li>
-                        <a href="#work">Work</a>
+                        <a href="#work">My Projects</a>
                     </li>
                     <li>
                         <a href="#contact-me">Contact Me</a>

@@ -5,7 +5,7 @@ function Project() {
   return (
   <>
     <article id="work" className="work">
-      <h2>Work</h2>
+      <h2>My Projects</h2>
       <a href="https://hkagei.github.io/run-buddy/" target="_blank" rel="noreferrer">
         <img
           className="runbuddy-image"

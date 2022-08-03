@@ -12,20 +12,18 @@ function Card() {
       <div className="row">
         <div className="about-me">
           <img src="./1658159099879.jpeg" alt="" />
-        </div>
-        <div className="medium-8 columns about-section">
           <article id="about-me">
           <h4> About Me</h4>
           <p> My name is Hiro Kagei. I am an aspiring full-stack web developer who is learning the necessary skills to be proficient in multiple programming frameworks. I have a huge passion for learning, the outdoors, and traveling.</p>
           </article>
         </div>
+        {/* <div className="medium-8 columns about-section">
+          
+        </div>
+      </div> */}
       </div>
     </div>
-    <div className="small-12 medium-4 columns small-order-1 medium-order-2 mailing-container">
-      <h4 className="mailing-list">Join my mailing list</h4>
-      <input type="text" placeholder="Email Address"/>
-      <a className="button expanded subscribe-button" href="#">Subscribe Now</a>
-    </div>
+    
   </div>
   {/* <div className="row tag-search">
     <div className="columns">
