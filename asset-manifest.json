@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hiros-react-portfolio/static/css/main.cbadec35.css",
-    "main.js": "/hiros-react-portfolio/static/js/main.21d2a7b2.js",
+    "main.js": "/hiros-react-portfolio/static/js/main.1723fbd7.js",
     "static/js/787.e4012544.chunk.js": "/hiros-react-portfolio/static/js/787.e4012544.chunk.js",
     "static/media/DSC_8006.jpg": "/hiros-react-portfolio/static/media/DSC_8006.664eb15407e84d02a6ff.jpg",
     "static/media/DSC_8526.jpg": "/hiros-react-portfolio/static/media/DSC_8526.269b1834a2ae2b0215a8.jpg",
     "index.html": "/hiros-react-portfolio/index.html",
     "main.cbadec35.css.map": "/hiros-react-portfolio/static/css/main.cbadec35.css.map",
-    "main.21d2a7b2.js.map": "/hiros-react-portfolio/static/js/main.21d2a7b2.js.map",
+    "main.1723fbd7.js.map": "/hiros-react-portfolio/static/js/main.1723fbd7.js.map",
     "787.e4012544.chunk.js.map": "/hiros-react-portfolio/static/js/787.e4012544.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbadec35.css",
-    "static/js/main.21d2a7b2.js"
+    "static/js/main.1723fbd7.js"
   ]
 }
