@@ -48,6 +48,13 @@ function Project() {
           alt="national-mapper"
         />
       </a>
+      <a href="https://github.com/hkagei/what-to-watch" target="_blank" rel="noreferrer">
+        <img
+          className="what-to-watch"
+          src={"what to watch.PNG"}
+          alt="national-mapper"
+          />
+      </a>
     </article>
   </>
   );
